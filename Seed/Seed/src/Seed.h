@@ -2,6 +2,7 @@
 
 // used by Seed application
 
+#include <stdio.h>
 #include "Seed/Application.h"
 
 // ----------Entry Point------------
