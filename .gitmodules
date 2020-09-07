@@ -1,0 +1,3 @@
+[submodule "Seed/Seed/submodules/spdlog"]
+	path = Seed/Seed/submodules/spdlog
+	url = https://github.com/gabime/spdlog.git

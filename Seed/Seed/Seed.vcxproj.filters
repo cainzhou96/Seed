@@ -27,9 +27,15 @@
     <ClInclude Include="src\Seed\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Seed\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Seed\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Seed\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

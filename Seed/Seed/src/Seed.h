@@ -2,8 +2,8 @@
 
 // used by Seed application
 
-#include <stdio.h>
 #include "Seed/Application.h"
+#include "Seed/Log.h"
 
 // ----------Entry Point------------
 
