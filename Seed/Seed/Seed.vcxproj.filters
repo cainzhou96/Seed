@@ -4,6 +4,9 @@
     <Filter Include="Seed">
       <UniqueIdentifier>{064E8C7C-F284-8D0D-9B71-73108787090F}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Seed\Events">
+      <UniqueIdentifier>{2A37E9CA-96EC-61C0-1FE1-5B978B9558C4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Seed.h" />
@@ -15,6 +18,18 @@
     </ClInclude>
     <ClInclude Include="src\Seed\EntryPoint.h">
       <Filter>Seed</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Seed\Events\ApplicationEvent.h">
+      <Filter>Seed\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Seed\Events\Event.h">
+      <Filter>Seed\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Seed\Events\KeyEvent.h">
+      <Filter>Seed\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Seed\Events\MouseEvent.h">
+      <Filter>Seed\Events</Filter>
     </ClInclude>
     <ClInclude Include="src\Seed\Log.h">
       <Filter>Seed</Filter>
